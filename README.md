@@ -1,13 +1,16 @@
 # dnd5e-obsidian-charactersheet
-An obsidian note to replace the apper versione of the character sheet.
+An Obsidian note designed to replace the paper version of the D&5e character sheet.
+Requires manual intervention but allows for high customization.
 
-## Required Plugin
+> There are some Italian words in the template; please feel free to point them out!
+
+## Required Plugins
 - BRAT
 - DnD UI Toolkit
 
-## Instruction Manual
+## Instructions
 To use the template:
-- create a copy;
-- view his source code to get confortable with the fields
-- start by editing the file properties
-- DOUBLE CHECK EVERYTHING
+1. Create a copy of the template file.
+2. View its source code to get comfortable with the fields.
+3. Start by editing the file properties (frontmatter).
+4. **DOUBLE CHECK EVERYTHING** to ensure calculations are correc
