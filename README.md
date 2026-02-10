@@ -16,7 +16,7 @@ To use the template:
 4. **DOUBLE CHECK EVERYTHING** to ensure calculations are correc
 
 ## Gallery
-![Character properties](01-Properties.png)
+![Character properties](01-Properties)
 ![Character description and backstory](02-character.png)
 ![Character stats, HP, action](03-stats.png)
 ![Character traits, privileges and inventory](04-traits.png)
